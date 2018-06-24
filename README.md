@@ -22,6 +22,6 @@
 ・平均順位、和了率、放銃率の表示<br>
 
 
-
+<img src="https://github.com/airu2/tenhou/blob/master/%E7%84%A1%E9%A1%8C5.png">
 
 
