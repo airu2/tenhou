@@ -4,12 +4,12 @@
 データ取得済の.mjlogファイルを解析するシステム。
 
 ## 必要条件
-動作させるには、以下が必要です。
-・Windows7以上
-・.NET Framework4.5
+動作させるには、以下が必要です。<br>
+・Windows7以上<br>
+・.NET Framework4.5<br>
 ・天鳳Windows版（無料会員でよい）
-・Microsoft Access データベース エンジン 2010
-　→現在、https://www.microsoft.com/ja-jp/download/details.aspx?id=13255より入手可能。
+・Microsoft Access データベース エンジン 2010<br>
+　→現在、https://www.microsoft.com/ja-jp/download/details.aspx?id=13255より入手可能。<br>
 
 ## 機能
 
